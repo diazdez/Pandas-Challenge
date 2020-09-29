@@ -1,0 +1,8 @@
+Pandas-Challenge
+- PyCitySchools Reporting
+
+After reviewing the school and student data: 
+1. Charter Schools were listed as the Top 5 Performing Schools with higher percentage overall passing rate
+2. Charter Schools Reading and Math Scores were higher than District School types
+3. Charter Schools budget per student was less than District School's budget per student 
+
